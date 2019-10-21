@@ -1,6 +1,4 @@
-baseURL = "https://bodjaman.github.io/perch-arts/"
-publishDir = "docs"
-relativeURLs = true
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Perch Arts"
 
