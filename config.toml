@@ -1,6 +1,7 @@
 baseURL = "http://percharts.com"
 languageCode = "en-us"
 title = "Perch Arts"
+googleAnalytics = "UA-150586843-1"
 canonifyurls  = true
 
 [menu]
