@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Perch Arts"
+canonifyurls  = true
 
 [menu]
   [[menu.main]]
