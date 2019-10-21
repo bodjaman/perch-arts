@@ -1,5 +1,6 @@
 baseURL = "https://bodjaman.github.io/perch-arts/"
 publishDir = "docs"
+relativeURLs = true
 languageCode = "en-us"
 title = "Perch Arts"
 
