@@ -15,4 +15,4 @@ Perch Arts is a project co-founded in 2018 by Oisín Davies and Bod Jaman, focus
 
 <info@percharts.com>
 
-![Ringcross Community Centre](/perch-arts/img/ringcross-map.png)
+![Ringcross Community Centre](/img/ringcross-map.png)
