@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Perch Arts</title>
-    <link>https://bodjaman.github.io/perch-arts/projects/</link>
+    <link>http://example.org/projects/</link>
     <description>Recent content in Projects on Perch Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 14:31:17 +0100</lastBuildDate>
     
-	<atom:link href="https://bodjaman.github.io/perch-arts/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crits</title>
-      <link>https://bodjaman.github.io/perch-arts/projects/crits/</link>
+      <link>http://example.org/projects/crits/</link>
       <pubDate>Sat, 12 Oct 2019 14:27:25 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/projects/crits/</guid>
+      <guid>http://example.org/projects/crits/</guid>
       <description>Group crits open to makers of all levels, working in all media. Led by artists Helen Caulfield and Alice Norfield.</description>
     </item>
     
     <item>
       <title>Houellebecq Girl – Lawrence Dodgson &amp; Jack Dunleavy</title>
-      <link>https://bodjaman.github.io/perch-arts/projects/houellebecq-girl/</link>
+      <link>http://example.org/projects/houellebecq-girl/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:57 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/projects/houellebecq-girl/</guid>
+      <guid>http://example.org/projects/houellebecq-girl/</guid>
       <description>Houellebecq Girl was filmed in 2017, but is set in the Spring of 2016; before the triumph of trollocracy and the harambisation of the EU.</description>
     </item>
     
     <item>
       <title>Cavadoras – Half Way Down</title>
-      <link>https://bodjaman.github.io/perch-arts/projects/cavadoras-half-way-down/</link>
+      <link>http://example.org/projects/cavadoras-half-way-down/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:29 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/projects/cavadoras-half-way-down/</guid>
+      <guid>http://example.org/projects/cavadoras-half-way-down/</guid>
       <description>Cavadoras is a performance collective based between Berlin and Naples committed to the study of instant composition, poetry, sound and communicating the imaginative potential of the underground.</description>
     </item>
     

@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Perch Arts</title>
-    <link>https://bodjaman.github.io/perch-arts/tags/</link>
+    <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Perch Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 14:29:50 +0100</lastBuildDate>
     
-	<atom:link href="https://bodjaman.github.io/perch-arts/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cinema</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/cinema/</link>
+      <link>http://example.org/tags/cinema/</link>
       <pubDate>Sat, 12 Oct 2019 14:29:50 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/cinema/</guid>
+      <guid>http://example.org/tags/cinema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentary</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/documentary/</link>
+      <link>http://example.org/tags/documentary/</link>
       <pubDate>Sat, 12 Oct 2019 14:29:50 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/documentary/</guid>
+      <guid>http://example.org/tags/documentary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>film</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/film/</link>
+      <link>http://example.org/tags/film/</link>
       <pubDate>Sat, 12 Oct 2019 14:29:50 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/film/</guid>
+      <guid>http://example.org/tags/film/</guid>
       <description></description>
     </item>
     
     <item>
       <title>moving image</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/moving-image/</link>
+      <link>http://example.org/tags/moving-image/</link>
       <pubDate>Sat, 12 Oct 2019 14:29:50 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/moving-image/</guid>
+      <guid>http://example.org/tags/moving-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reality runs away</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/reality-runs-away/</link>
+      <link>http://example.org/tags/reality-runs-away/</link>
       <pubDate>Sat, 12 Oct 2019 14:29:50 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/reality-runs-away/</guid>
+      <guid>http://example.org/tags/reality-runs-away/</guid>
       <description></description>
     </item>
     
     <item>
       <title>community</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/community/</link>
+      <link>http://example.org/tags/community/</link>
       <pubDate>Sat, 12 Oct 2019 14:27:25 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/community/</guid>
+      <guid>http://example.org/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>crits</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/crits/</link>
+      <link>http://example.org/tags/crits/</link>
       <pubDate>Sat, 12 Oct 2019 14:27:25 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/crits/</guid>
+      <guid>http://example.org/tags/crits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshops</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/workshops/</link>
+      <link>http://example.org/tags/workshops/</link>
       <pubDate>Sat, 12 Oct 2019 14:27:25 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/workshops/</guid>
+      <guid>http://example.org/tags/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interdisciplinary</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/interdisciplinary/</link>
+      <link>http://example.org/tags/interdisciplinary/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:29 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/interdisciplinary/</guid>
+      <guid>http://example.org/tags/interdisciplinary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>live</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/live/</link>
+      <link>http://example.org/tags/live/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:29 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/live/</guid>
+      <guid>http://example.org/tags/live/</guid>
       <description></description>
     </item>
     
     <item>
       <title>performance</title>
-      <link>https://bodjaman.github.io/perch-arts/tags/performance/</link>
+      <link>http://example.org/tags/performance/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:29 +0100</pubDate>
       
-      <guid>https://bodjaman.github.io/perch-arts/tags/performance/</guid>
+      <guid>http://example.org/tags/performance/</guid>
       <description></description>
     </item>
     
