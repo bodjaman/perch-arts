@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://bodjaman.gitlab.io/perch-arts/"
 languageCode = "en-us"
 title = "Perch Arts"
 canonifyurls  = true
