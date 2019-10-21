@@ -6,15 +6,15 @@ title = "Perch Arts"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/perch-arts/"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Projects"
-    url = "/perch-arts/projects/"
+    url = "/projects/"
     weight = 2
   [[menu.main]]
     name = "Info"
-    url = "/perch-arts/info/"
+    url = "/info/"
     weight = 3
 
 [params]
