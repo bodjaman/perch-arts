@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>interdisciplinary on Perch Arts</title>
-    <link>http://example.org/tags/interdisciplinary/</link>
+    <link>https://bodjaman.github.io/perch-arts/tags/interdisciplinary/</link>
     <description>Recent content in interdisciplinary on Perch Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 14:26:29 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/interdisciplinary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bodjaman.github.io/perch-arts/tags/interdisciplinary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cavadoras – Half Way Down</title>
-      <link>http://example.org/projects/cavadoras-half-way-down/</link>
+      <link>https://bodjaman.github.io/perch-arts/projects/cavadoras-half-way-down/</link>
       <pubDate>Sat, 12 Oct 2019 14:26:29 +0100</pubDate>
       
-      <guid>http://example.org/projects/cavadoras-half-way-down/</guid>
+      <guid>https://bodjaman.github.io/perch-arts/projects/cavadoras-half-way-down/</guid>
       <description>Cavadoras is a performance collective based between Berlin and Naples committed to the study of instant composition, poetry, sound and communicating the imaginative potential of the underground.</description>
     </item>
     
