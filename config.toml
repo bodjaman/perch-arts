@@ -8,16 +8,16 @@ title = "Perch Arts"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/perch-arts/"
     weight = 1
   [[menu.main]]
     name = "Projects"
 #    pre = "edit"
-    url = "/projects/"
+    url = "/perch-arts/projects/"
     weight = 2
   [[menu.main]]
     name = "Info"
-    url = "/info/"
+    url = "/perch-arts/info/"
     weight = 3
 
 #  [[menu.main]]
