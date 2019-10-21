@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<div class = "single-or-list-content">
+
+  <h1 class = "single-page-title">{{ .Title }}</h1>
+
+  {{ .Content }}
+
+    {{ range .Pages.ByPublishDate.Reverse }}
+
+  <div class = "projects">
+
+  <p>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <br/><b>{{ .Params.event_date }} | {{ .Params.event_time }}</b> | {{ .Params.summary }}
+  </p>
+
+  </div>
+
+
+  {{ end }}
+
+{{ end }}

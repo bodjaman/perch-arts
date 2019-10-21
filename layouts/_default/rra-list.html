@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<div class = "single-or-list-content">
+
+<h1 class = "single-page-title">{{ .Title }}</h1>
+
+<p class="single-page-datetime">
+  {{ .Params.event_date }}<br/>{{ .Params.event_time }}
+</p>
+
+{{ .Content }}
+
+<div class = "rra-programme">
+  {{ range .Pages.ByPublishDate }}
+
+    <a href="{{ .RelPermalink }}">{{ with .Params.featured_image }}<img class="rra-featured" src="{{ . }}">{{ end }}
+    <p class = "rra-programme-title">
+      {{ .Params.event_date }} | {{ .Title }}
+  </p></a>
+  {{ end }}
+</div>
+
+{{ end }}

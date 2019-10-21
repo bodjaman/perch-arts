@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class = "single-or-list-content">
+
+  <h1 class = "single-page-title">{{ .Title }}</h1>
+  {{ with .Params.event_date }}
+  <p class="single-page-datetime">
+    {{ . }} {{ end }} <br/> {{ .Params.event_time }}
+  </p>
+
+
+  <div class = "single-page-content">
+    {{ .Content }}
+  </div>
+
+</div>
+
+{{ end }}

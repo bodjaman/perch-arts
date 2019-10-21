@@ -1,0 +1,22 @@
+---
+title: "Night Three: Kadeem Oak, Anastasia Perahia & Jessie Russell-Donn"
+date: 2019-10-12T14:29:50+01:00
+tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
+event_date: "28 NOV 2019"
+event_time: "7:30PM"
+featured_image: "img/LAD1.png"
+draft: false
+---
+
+[<< Reality Runs Away](/projects/reality-runs-away)<br/>
+**Kadeem Oak** – _A Marseille Family._ [2019, 5'00"]<br/>
+**Anastasia Perahia** – _Untitled._ [2019, 15'00"]<br/>
+**Jessie Russell-Donn** – _Untitled._ [2019, 10'00"]
+
+The films shown on this final evening share a concern with landscape and loss. Kadeem Oak's _A Marseille Family_ is an exploration of 'the diasporic history of the region, [and] its geology [...] highlight[ing] themes such as the nature of play, leisure and the family unit while experimenting with sound, montage and repetition.' Anastasia Perahia's three-channel video addresses the disappearance of the Judeo-Spanish language Ladino in Greece, employing experimental montage to explore the spatial narratives of language and the linguistic narratives of landscape. Jessie Russell-Donn will present a new film constructed from documents relating to her mother's battles with illness, and with the accompanying films will offer a counterpoint to the aesthetic documentary proposition.
+
+<a href="https://www.eventbrite.co.uk/e/film-reality-runs-away-the-limits-of-documentary-tickets-76776728261" target="blank">RSVP</a>
+
+![Kadeem Oak, 'A Marseille Family' 2019](/projects/reality-runs-away/img/MF1.png)
+
+![Anastasia Perahia, 2019](/projects/reality-runs-away/img/LAD1.png)
