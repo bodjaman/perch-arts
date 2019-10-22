@@ -13,7 +13,7 @@ draft: false
 **Anastasia Perahia** – _Untitled._ [2019, 15'00"]<br/>
 **Jessie Russell-Donn** – _Untitled._ [2019, 10'00"]
 
-The films shown on this final evening share a concern with landscape and loss. Kadeem Oak's _A Marseille Family_ is an exploration of 'the diasporic history of the region, [and] its geology [...] highlight[ing] themes such as the nature of play, leisure and the family unit while experimenting with sound, montage and repetition.' Anastasia Perahia's three-channel video addresses the disappearance of the Judeo-Spanish language Ladino in Greece, employing experimental montage to explore the spatial narratives of language and the linguistic narratives of landscape. Jessie Russell-Donn will present a new film constructed from documents relating to her mother's battles with illness, and with the accompanying films will offer a counterpoint to the aesthetic documentary proposition.
+The films shown on this final evening share a concern with landscape and loss. Kadeem Oak's _A Marseille Family_ is an exploration of 'the diasporic history of the region, [and] its geology [...] highlight[ing] themes such as the nature of play, leisure and the family unit while experimenting with sound, montage and repetition.' Anastasia Perahia's three-channel video addresses the disappearance of the Judeo-Spanish language Ladino in Greece, employing experimental montage to explore the spatial narratives of language and the linguistic narratives of landscape.
 
 <a href="https://www.eventbrite.co.uk/e/film-reality-runs-away-the-limits-of-documentary-tickets-76776728261" target="blank">RSVP</a>
 
