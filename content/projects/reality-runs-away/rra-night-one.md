@@ -28,9 +28,12 @@ The films selected have coalesced around themes of family and memory, while enga
 
 Pham graduated from BA Fine Art at Chelsea College of Art (2013) and Postgraduate Fine Art at Royal Academy Schools (2018). Selected exhibitions include: Little Vietnam, Turf Projects (solo) (2019), The Lands Of, The Reef, Los Angeles (2019), Resettled Spaces, Lien Viet Housing Association (2019), Record, Retrieve, Reactivate, An Viet Foundation, (2018), Diaspora Ma Homey, Space_31, Berlin (2018), Gender, Identity & Material, Royal Academy of Art (2017), Fictive Dreams, ICA Singapore (2016) and Waves, Turf Projects (2016). Selected performances include: Performing East, The British Academy (2018). He was awarded the CFCCA ‘Breathe’ residency to Taipei Artist Village (2018), Gasworks International Fellowship to Hangar, Lisbon (2015) and the CCW Artists Moving Image Award at The South London Gallery (2011).  He was an associate member of Asia Art Activism, Raven Row (2018) and was a committee member of the An Viet Foundation, Hackney (2018). He has a forthcoming solo exhibition at CFCCA Manchester in 2020. He lives and works in London.
 
-<a href="https://bellariza.com/" target="blank">Bella Riza</a> is an artist and filmmaker based in London. In 2017 she completed her Masters at the Royal College of Art where she specialised in Moving Image and received the Chris Garnham Prize. Her work explores memory, personal histories and composition in relation to the idea of home.
+--
 
-Her film Salt House (2017) has been selected for Bloomberg New Contemporaries (2018) and screened at the Tate St Ives, South London Gallery and the Liverpool Biennial.
+<a href="https://bellariza.com/" target="blank">Bella Riza</a> is an artist and filmmaker based in London. She recently completed a Masters at the Royal College of Art where she specialised in Moving Image and received the Chris Garnham Prize. Her work explores memory, personal histories and composition in relation to the idea of home.
+
+--
 
 Wilma Stone is a trans-disciplinary artist. She makes her work by any means necessary, producing diverse artworks ranging from ceramic sculptures to performance works, to artist films. She has co-authored a book on streetwear, co-produced a feature-length documentary, and worked in the art, film and fashion worlds for the past twenty years.
+
 Through the language of paradox and the intensification of affective energy, Stone manipulates sound and moving image in an attempt to articulate the irreconcilable. Her recent work utilises the nomadic circulation of virtual images, montage-clashing them alongside her own and collapsing the binary distinctions of fiction and documentary. Creating unpredictable objects, she refutes trauma-derived narratives that render marginalised subjects genetically inferior, deviant, and other. Her aim - to holla truth into the silence of everyday atrocities.
