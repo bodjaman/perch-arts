@@ -4,7 +4,7 @@ date: 2019-10-12T14:29:11+01:00
 tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
 event_date: "14 NOV 2019"
 event_time: "7:30PM"
-featured_image: "img/SH3.jpg"
+featured_image: "img/SH1.jpg"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ The films selected have coalesced around themes of family and memory, while enga
 
 ![Will Pham, 'An Viet (Well Settled)' 2018](/projects/reality-runs-away/img/avws1.jpg)
 
-![Bella Riza, 'Salt House' 2017](/projects/reality-runs-away/img/SH3.jpg)
+![Bella Riza, 'Salt House' 2017](/projects/reality-runs-away/img/SH2.jpg)
 
 ![Wilma Stone, 'A Good Stain' 2016](/projects/reality-runs-away/img/AGS3.jpg)
 
