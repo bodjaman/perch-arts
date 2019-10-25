@@ -4,7 +4,7 @@ date: 2019-10-12T14:29:11+01:00
 tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
 event_date: "14 NOV 2019"
 event_time: "7:30PM"
-featured_image: "img/SH1.jpg"
+featured_image: "img/AVWS2.jpg"
 draft: false
 ---
 
@@ -18,7 +18,9 @@ The films selected have coalesced around themes of family and memory, while enga
 
 <a href="https://www.eventbrite.co.uk/e/film-reality-runs-away-the-limits-of-documentary-tickets-76776728261" target="blank">RSVP</a>
 
-![Will Pham, 'An Viet (Well Settled)' 2018](/projects/reality-runs-away/img/avws1.jpg)
+![Rowan Ings, 'Never Actually Lost' 2019](/projects/reality-runs-away/img/NAL9.jpg)
+
+![Will Pham, 'An Viet (Well Settled)' 2018](/projects/reality-runs-away/img/AVWS1.jpg)
 
 ![Bella Riza, 'Salt House' 2017](/projects/reality-runs-away/img/SH2.jpg)
 
@@ -26,14 +28,6 @@ The films selected have coalesced around themes of family and memory, while enga
 
 <a href="https://willpham.co.uk" target="blank">Will Pham</a> is an artist working in video, live performance and socially engaged practice. His work explores intergenerational relationships, community building and refugee narratives within the UK.
 
-Pham graduated from BA Fine Art at Chelsea College of Art (2013) and Postgraduate Fine Art at Royal Academy Schools (2018). Selected exhibitions include: Little Vietnam, Turf Projects (solo) (2019), The Lands Of, The Reef, Los Angeles (2019), Resettled Spaces, Lien Viet Housing Association (2019), Record, Retrieve, Reactivate, An Viet Foundation, (2018), Diaspora Ma Homey, Space_31, Berlin (2018), Gender, Identity & Material, Royal Academy of Art (2017), Fictive Dreams, ICA Singapore (2016) and Waves, Turf Projects (2016). Selected performances include: Performing East, The British Academy (2018). He was awarded the CFCCA ‘Breathe’ residency to Taipei Artist Village (2018), Gasworks International Fellowship to Hangar, Lisbon (2015) and the CCW Artists Moving Image Award at The South London Gallery (2011).  He was an associate member of Asia Art Activism, Raven Row (2018) and was a committee member of the An Viet Foundation, Hackney (2018). He has a forthcoming solo exhibition at CFCCA Manchester in 2020. He lives and works in London.
-
---
-
 <a href="https://bellariza.com/" target="blank">Bella Riza</a> is an artist and filmmaker based in London. She recently completed a Masters at the Royal College of Art where she specialised in Moving Image and received the Chris Garnham Prize. Her work explores memory, personal histories and composition in relation to the idea of home.
 
---
-
-Wilma Stone is a trans-disciplinary artist. She makes her work by any means necessary, producing diverse artworks ranging from ceramic sculptures to performance works, to artist films. She has co-authored a book on streetwear, co-produced a feature-length documentary, and worked in the art, film and fashion worlds for the past twenty years.
-
-Through the language of paradox and the intensification of affective energy, Stone manipulates sound and moving image in an attempt to articulate the irreconcilable. Her recent work utilises the nomadic circulation of virtual images, montage-clashing them alongside her own and collapsing the binary distinctions of fiction and documentary. Creating unpredictable objects, she refutes trauma-derived narratives that render marginalised subjects genetically inferior, deviant, and other. Her aim - to holla truth into the silence of everyday atrocities.
+Wilma Stone is a trans-disciplinary artist. She makes her work by any means necessary, producing diverse artworks ranging from ceramic sculptures to performance works, to artist films. Her films collapse the binary distinctions of fiction and documentary and refute trauma-derived narratives that render marginalised subjects genetically inferior, deviant, and other.

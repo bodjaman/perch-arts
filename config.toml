@@ -1,6 +1,5 @@
 baseURL = "http://percharts.com"
 languageCode = "en-us"
-enableRobotsTXT = true
 title = "Perch Arts"
 googleAnalytics = "UA-150586843-1"
 canonifyurls  = true
@@ -21,3 +20,4 @@ canonifyurls  = true
 
 [params]
   homeText = "Time-based Media."
+  Description = "A programme of time-based arts and media, including performance and moving image. Currently based at The Ringcross Centre, Holloway, North London."
