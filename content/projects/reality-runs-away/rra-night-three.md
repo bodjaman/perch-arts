@@ -10,8 +10,8 @@ draft: false
 
 [<< Reality Runs Away](/projects/reality-runs-away)<br/>
 **Kadeem Oak** – _A Marseille Family._ [2019, 5'00"]<br/>
-**Anastasia Perahia**<br/>
-**Jessie Russell-Donn**
+**Anastasia Perahia** - _Landscapes of Ladino_ [2019]<br/>
+**Jessie Russell-Donn** - _Smega's Dream Folder_ [2019]
 
 The films shown on this final evening share a concern with landscape and loss. Kadeem Oak's _A Marseille Family_ is an exploration of 'the diasporic history of the region, [and] its geology [...] highlight[ing] themes such as the nature of play, leisure and the family unit while experimenting with sound, montage and repetition.' Anastasia Perahia's three-channel video addresses the disappearance of the Judeo-Spanish language Ladino in Greece, employing experimental montage to explore the spatial narratives of language and the linguistic narratives of landscape.
 
@@ -19,4 +19,6 @@ The films shown on this final evening share a concern with landscape and loss. K
 
 ![Kadeem Oak, 'A Marseille Family' 2019](/projects/reality-runs-away/img/MF1.png)
 
-![Anastasia Perahia, 2019](/projects/reality-runs-away/img/LAD1.jpg)
+![Anastasia Perahia, 'Landscapes of Ladino' 2019](/projects/reality-runs-away/img/LAD1.jpg)
+
+![Jessie Russell-Donn, 'Smega's Dream Folder' 2019](/projects/reality-runs-away/img/SDF1.png)

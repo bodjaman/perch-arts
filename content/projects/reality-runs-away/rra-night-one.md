@@ -20,7 +20,7 @@ The films selected have coalesced around themes of family and memory, while enga
 
 ![Rowan Ings, 'Never Actually Lost' 2019](/projects/reality-runs-away/img/NAL9.jpg)
 
-![Will Pham, 'An Viet (Well Settled)' 2018](/projects/reality-runs-away/img/AVWS1.jpg)
+![Will Pham, 'An Viet (Well Settled)' 2018](/projects/reality-runs-away/img/AVWS2.jpg)
 
 ![Bella Riza, 'Salt House' 2017](/projects/reality-runs-away/img/SH2.jpg)
 
