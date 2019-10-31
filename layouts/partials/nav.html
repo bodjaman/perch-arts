@@ -1,8 +1,16 @@
-  <nav id="nav" class="nav justify-content-center">
-    <h1 id = "logo"><a href = "/" title = "Perch Arts"><img class = "logo" src = "/img/perch_logo_web.png" title = "Perch Arts" alt = "Perch Arts – Time-based Media"></a></h1>
+  <nav id="nav">
+
+    <h1 id = "logo">
+      <a href = "/" title = "Perch Arts">
+        <img src = "/img/perch_logo_web.png" title = "Perch Arts" alt = "Perch Arts – Time-based Media">
+      </a>
+    </h1>
+
     {{ range .Site.Menus.main }}
-    {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
-    {{ $text := print $icon " " .Name | safeHTML }}
-    <a class="nav-link" href="{{ .URL }}">{{ $text }}</a>
+    {{ $text :=  .Name | safeHTML }}
+    
+    <a class="nav-link" href="{{ .URL }}">
+      {{ $text }}
+    </a>
     {{ end }}
   </nav>
