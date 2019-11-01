@@ -2,6 +2,7 @@
 title: "Info"
 date: 2019-10-12T14:31:17+01:00
 tags: []
+summary: "About Perch Arts, our programme and how to get in touuch"
 draft: false
 ---
 

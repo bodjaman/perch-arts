@@ -2,6 +2,7 @@
 title: "Night Three: Kadeem Oak, Anastasia Perahia & Jessie Russell-Donn"
 date: 2019-10-12T14:29:50+01:00
 tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
+summary: "28 Nov 2019, 19:30. 4 short films by Kadeem Oak, Anastasia Perahia and Jessie Russell-Donn sharing a concern with landscape and loss."
 event_date: "28 NOV 2019"
 event_time: "7:30PM"
 featured_image: "img/LAD8.jpg"

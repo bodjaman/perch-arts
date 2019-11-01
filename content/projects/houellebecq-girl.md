@@ -4,7 +4,7 @@ date: 2019-10-12T14:26:57+01:00
 tags: ["film", "moving image", "cinema"]
 event_date: "25 AUG 2018"
 event_time: "7:15PM"
-summary: "Houellebecq Girl was filmed in 2017, but is set in the Spring of 2016; before the triumph of trollocracy and the harambisation of the EU."
+summary: "Houellebecq Girl was filmed in 2017, but is set in the Spring of 2016; before the triumph of trollocracy and the harambisation of the EU"
 featured_image: "img/houellebecq-girl-title.jpg"
 draft: false
 ---

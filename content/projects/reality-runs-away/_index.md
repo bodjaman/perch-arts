@@ -4,7 +4,7 @@ date: 2019-10-12T14:27:52+01:00
 tags: ["programme", "film", "documentary", "cinema", "moving image", "reality runs away"]
 event_date: "14, 21, 28 NOV 2019"
 event_time: "7:30PM"
-summary: "Three nights of short films which ask questions of Documentary. Featuring work by: Cyrus Hung, Rowan Ings, Kadeem Oak, Anastasia Perahia, Will Pham, Bella Riza, Jessie Russell-Donn, Tabitha Steinberg, Wilma Stone and Jing Xie."
+summary: "3 nights of short films which ask questions of documentary as a genre, method or concept and explore the tensions between fiction and reality in cinema"
 featured_image: "img/rra.png"
 homepage: true
 layout: "rra-list"

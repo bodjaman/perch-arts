@@ -2,6 +2,7 @@
 title: "Night Two: Cyrus Hung, Tabitha Steinberg & Jing Xie"
 date: 2019-10-12T14:29:30+01:00
 tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
+summary: "21 Nov 2019, 19:30. 3 short films by Cyrus Hung, Tabitha Steinberg and Jing Xie engaging with cinema's relation with the social and art's place in society"
 event_date: "21 NOV 2019"
 event_time: "7:30PM"
 featured_image: "img/IWI4.jpg"

@@ -21,3 +21,5 @@ canonifyurls  = true
 [params]
   homeText = "Time-based Media."
   Description = "A programme of time-based arts and media, including performance and moving image. Currently based at The Ringcross Centre, Holloway, North London."
+
+  disableKinds = ["taxonomy", "taxonomyTerm"]

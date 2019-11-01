@@ -4,7 +4,7 @@ date: 2019-10-12T14:26:29+01:00
 tags: ["performance", "interdisciplinary", "live"]
 event_date: "8 JUL 2018"
 event_time: "7:00PM"
-summary: "Cavadoras is a performance collective based between Berlin and Naples committed to the study of instant composition, poetry, sound and communicating the imaginative potential of the underground."
+summary: "Cavadoras: a performance collective committed to studying instant composition, poetry, sound and communicating the imaginative potential of the underground"
 featured_image: "img/cavadoras-1.jpg"
 draft: false
 ---

@@ -2,6 +2,7 @@
 title: "Night One: Rowan Ings, Will Pham, Bella Riza & Wilma Stone"
 date: 2019-10-12T14:29:11+01:00
 tags: ["film", "documentary", "cinema", "moving image", "reality runs away"]
+summary: "14 Nov 2019, 19:30. 5 short films by Rowan Ings, Will Pham, Bella Riza and Wilma Stone exploring themes of family, memory and identity"
 event_date: "14 NOV 2019"
 event_time: "7:30PM"
 featured_image: "img/AVWS2.jpg"
