@@ -9,6 +9,20 @@ Perch Arts is a project co-founded in 2018 by Oisín Davies and Bod Jaman, focus
 
 [The Pilion Trust](http://piliontrust.info/ "The Pilion Trust") is a grassroots registered charity, running a range of programmes supporting marginalised groups including young homeless people, refugees & asylum seekers, transgender and intersex people and domestic violence survivors.
 
+Sign up to our mailing list for updates on our programme and other things you might like:
+<form
+action="https://buttondown.email/api/emails/embed-subscribe/percharts"
+method="post"
+target="popupwindow"
+onsubmit="window.open('https://buttondown.email/percharts', 'popupwindow')"
+class="embeddable-buttondown-form"
+>
+<label for="bd-email">Email: </label>
+<input type="email" name="email" id="bd-email">
+<input type="hidden" value="1" name="embed"></input>
+<input type="submit" value="Subscribe"></input>
+</form>
+
 [Ringcross Community Centre, 60 Lough Road, Islington, London N7 8RH](https://www.google.com/maps/place/Ringcross+Community+Centre/@51.5496898,-0.1148242,15z/data=!4m2!3m1!1s0x0:0xeaaa68ef80d70fd8?sa=X&ved=2ahUKEwiSgtOTg5flAhWFVBUIHeOdALkQ_BIwE3oECA4QCA "Ringcross Community Centre")
 
 [@perch.arts](http://instagram.com/perch.arts/)
