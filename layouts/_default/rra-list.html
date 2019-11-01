@@ -2,7 +2,7 @@
 
 <div class = "single-or-list-content">
 
-<h1 class = "single-page-title">{{ .Title }}</h1>
+<h2 class = "single-page-title">{{ .Title }}</h2>
 
 <p class="single-page-datetime">
   {{ .Params.event_date }}<br/>{{ .Params.event_time }}
@@ -13,7 +13,7 @@
 <div class = "rra-programme">
   {{ range .Pages.ByPublishDate }}
 
-    <a href="{{ .RelPermalink }}">{{ with .Params.featured_image }}<img class="rra-featured" src="{{ . }}">{{ end }}
+    <a href="{{ .RelPermalink }}"><img class="rra-featured" src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image_alt }}">
     <p class = "rra-programme-title">
       {{ .Params.event_date }} | {{ .Title }}
   </p></a>

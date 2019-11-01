@@ -5,3 +5,5 @@ tags: []
 summary: "Past and ongoing Perch Arts projects, including screenings, performances and crits"
 draft: false
 ---
+
+Past and ongoing Perch Arts projects, including screenings, performances and crits.
