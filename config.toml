@@ -1,4 +1,4 @@
-baseURL = "http://percharts.com"
+baseURL = "https://percharts.com"
 languageCode = "en-us"
 title = "Perch Arts – Time-based media"
 googleAnalytics = "UA-150586843-1"
