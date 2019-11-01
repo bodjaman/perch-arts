@@ -8,7 +8,10 @@ featured_image: "img/LAD8.jpg"
 draft: false
 ---
 
-[<< Reality Runs Away](/projects/reality-runs-away)<br/>
+[<< Reality Runs Away](/projects/reality-runs-away)
+
+Ringcross Community Centre, 60 Lough Road N7 8RH
+
 **Kadeem Oak** – _A Marseille Family._ [2019, 5'00"]<br/>
 **Anastasia Perahia** - _Landscapes of Ladino_ [2019]<br/>
 **Jessie Russell-Donn** - _Smega's Dream Folder_ [2019]

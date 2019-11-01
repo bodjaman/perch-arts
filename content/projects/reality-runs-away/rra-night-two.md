@@ -8,7 +8,10 @@ featured_image: "img/IWI4.jpg"
 draft: false
 ---
 
-[<< Reality Runs Away](/projects/reality-runs-away)<br/>
+[<< Reality Runs Away](/projects/reality-runs-away)
+
+Ringcross Community Centre, 60 Lough Road N7 8RH
+
 **Cyrus Hung** – _Thoughts on Pigeons._ [2019, 10'15"]<br/>
 **Tabitha Steinberg** – _I'm wondering if you had any interest in art?_ [2019, 20'00"]<br/>
 **Jing Xie** – _Lady, Escalator and Hand._ [2019, 3'23"]

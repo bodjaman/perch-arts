@@ -8,7 +8,10 @@ featured_image: "img/AVWS2.jpg"
 draft: false
 ---
 
-[<< Reality Runs Away](/projects/reality-runs-away)<br/>
+[<< Reality Runs Away](/projects/reality-runs-away)
+
+Ringcross Community Centre, 60 Lough Road N7 8RH
+
 **Rowan Ings** - _Never Actually Lost._ [2019, 12'55"]<br/>
 **Will Pham** – _An Viet (Well Settled)._ [2018, 19'20"]<br/>
 **Bella Riza** – _Salt House._ [2017, 12'39"]<br/>
