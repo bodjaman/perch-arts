@@ -15,9 +15,12 @@ fields:
   name: tags
   label: Tags
   hidden: true
-- type: datetime
-  name: event_date
+- name: event_date
+  type: text
+  config:
+    required: false
   label: Event Date
+  description: eg. 8 JUL 2020
 - type: text
   name: event_time
   label: Event Time
