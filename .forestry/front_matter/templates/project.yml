@@ -4,22 +4,26 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Publish date
+  hidden: true
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  hidden: true
 - type: datetime
   name: event_date
-  label: event_date
+  label: Event Date
 - type: text
   name: event_time
-  label: event_time
+  label: Event Time
 - type: textarea
   name: summary
-  label: summary
+  label: Summary
+  description: 160 characters max
 - type: file
   name: featured_image
-  label: featured_image
+  label: Image
+  description: Upload an image
