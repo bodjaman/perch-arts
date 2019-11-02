@@ -33,5 +33,3 @@ fields:
   name: featured_image
   label: Image
   description: Upload an image
-pages:
-- content/projects/test-test-test.md
