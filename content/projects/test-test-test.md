@@ -1,7 +1,7 @@
 +++
 date = ""
 draft = true
-event_date = 2020-03-17T00:00:00Z
+event_date = "8 JUL 2020"
 event_time = "19:30"
 featured_image = ""
 summary = "Here's a test project post from forestry"
