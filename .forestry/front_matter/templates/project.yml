@@ -9,6 +9,8 @@ fields:
   name: date
   label: Publish date
   hidden: true
+  config:
+    export_format: DD/MM/YYYY
 - type: list
   name: tags
   label: Tags
@@ -19,6 +21,7 @@ fields:
 - type: text
   name: event_time
   label: Event Time
+  description: hh:mm
 - type: textarea
   name: summary
   label: Summary
