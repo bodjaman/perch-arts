@@ -21,7 +21,7 @@ Ringcross Community Centre, 60 Lough Road N7 8RH
 
 **Kadeem Oak** – _A Marseille Family._ \[2019, 5'00"\]<br/>
 **Anastasia Perahia** - _Landscapes of Ladino_ \[2019\]<br/>
-**Jessie Russell-Donn** - Senga’s Dream Folder \[2019\]
+**Jessie Russell-Donn** - Senga’s Dream Folder \[2019\]<br/>
 
 The films shown on this final evening share a concern with landscape and loss. Kadeem Oak's _A Marseille Family_ is an exploration of 'the diasporic history of the region, \[and\] its geology \[...\] highlight\[ing\] themes such as the nature of play, leisure and the family unit while experimenting with sound, montage and repetition.' Anastasia Perahia's three-channel video addresses the disappearance of the Judeo-Spanish language Ladino in Greece, employing experimental montage to explore the spatial narratives of language and the linguistic narratives of landscape.
 
