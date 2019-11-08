@@ -1,0 +1,35 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Publish date
+  hidden: true
+  config:
+    export_format: DD/MM/YYYY
+- type: list
+  name: tags
+  label: Tags
+  hidden: true
+- name: event_date
+  type: text
+  config:
+    required: false
+  label: Event Date
+  description: eg. 8 JUL 2020
+- type: text
+  name: event_time
+  label: Event Time
+  description: hh:mm
+- type: textarea
+  name: summary
+  label: Summary
+  description: 160 characters max
+- type: file
+  name: featured_image
+  label: Image
+  description: Upload an image
