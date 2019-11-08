@@ -20,8 +20,8 @@ featured_image_alt: Still from Tabitha Steinberg's 'I'm wondering if you have an
 
 Ringcross Community Centre, 60 Lough Road N7 8RH
 
-**Joe Bloom** – _Out The Window_. \[2019\]**  
-Cyrus Hung** – _Thoughts on Pigeons._ \[2019, 10'15"\]<br/>
+**Joe Bloom** – _Out The Window_. \[2019\]  
+**Cyrus Hung** – _Thoughts on Pigeons._ \[2019, 10'15"\]<br/>
 **Tabitha Steinberg** – _I'm wondering if you had any interest in art?_ \[2019\]<br/>
 **Jing Xie** – _Lady, Escalator and Hand._ \[2019, 3'23"\]
 
