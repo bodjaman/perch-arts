@@ -29,6 +29,8 @@ The films selected engage in distinct ways with cinema's relation with public sp
 
 <a href="https://www.eventbrite.co.uk/e/film-reality-runs-away-the-limits-of-documentary-tickets-76776728261" target="blank">RSVP</a>
 
+![Joe Bloom, 'Out The Window' 2019](/projects/reality-runs-away/img/OTW.jpg)
+
 ![Cyrus Hung, 'Thoughts on Pigeons' 2019](/projects/reality-runs-away/img/TOP2.jpg)
 
 ![Tabitha Steinberg, 'I'm wondering if you have any interest in art?' 2019](/projects/reality-runs-away/img/IWI3.jpg)
