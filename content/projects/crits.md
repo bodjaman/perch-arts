@@ -10,4 +10,4 @@ draft: false
 
 Perch Arts offer group crits open to makers of all levels, working in all media. Led by artists Helen Caulfield and Alice Norfield, the sessions provide an opportunity to seek practical and considered feedback and advice in an informal setting.
 
-Details of upcoming crits will be published here.
+NEXT UP: 14 JAN 2020 at Stour Space. 19:30 – 21:00. Email info@percharts.com or RSVP on Facebook.
